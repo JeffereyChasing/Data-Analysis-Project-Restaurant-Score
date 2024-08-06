@@ -1,6 +1,6 @@
 # Foundation of Data Science Project
 
-This project analyzes data from Ubereats restaurants to explore various insights and answer specific research questions. The dataset is sourced from Kaggle and includes detailed information about restaurants and their menus.
+This project analyzes data from Ubereats restaurants to explore various insights and answer following research question: What is the total and direct effect of locality on the restaurant score?
 
 ## Datasets Overview
 
@@ -30,9 +30,6 @@ This sub-dataset contains information about restaurants' menus. There are 5 colu
 - `description`: Menu description
 - `price`: Menu price
 
-## Research Question
-What is the total and direct effect of locality on the restaurant score?
-
 ## Project Structure
 The project is structured into various sections as follows:
 
@@ -40,9 +37,3 @@ The project is structured into various sections as follows:
 2. **Exploratory Data Analysis (EDA)**: This section explores the datasets to find initial insights and patterns.
 3. **Statistical Analysis**: This section conducts statistical analysis to answer the research question.
 4. **Results and Discussion**: This section presents the results of the analysis and discusses the findings.
-
-## How to Run the Project
-1. Clone the repository to your local machine.
-2. Ensure you have the necessary dependencies installed. You can install them using the following command:
-   ```bash
-   pip install -r requirements.txt
